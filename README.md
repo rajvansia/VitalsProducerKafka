@@ -1,0 +1,1 @@
+# Kafka Prodcuer that simulates medical device stream data. This is used to demonstrate realtime analysis of multiple devices.
