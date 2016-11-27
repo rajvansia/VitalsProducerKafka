@@ -1,0 +1,31 @@
+{
+  "type": "record",
+  "name": "VitalsData",
+  "doc": "Vitals data from simulated medical device",
+  "fields": [
+     {
+       "name": "patientId",
+       "type": "int"
+     },
+     {
+       "name": "deviceId",
+       "type": "int"
+     }
+      {
+       "name": "time",
+       "type": "int"
+     },
+     {
+       "name": "vitalValue",
+       "type": "float"
+     }
+      {
+       "name": "vitalUnits",
+       "type": "string"
+     },
+     {
+       "name": "vitalType",
+       "type": "string"
+     }
+  ]
+}
